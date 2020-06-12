@@ -32,3 +32,12 @@
 
 https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV.git
 https://github.com/duanshengliu/License-plate-recognition-demo.git
+
+---
+论文答辩完毕，演示也有点糟糕，因为室友的电脑vga接口问题无法演示。
+加油送给自己，谢谢答辩的那位女老师，谢谢耐心听我演示，以及没有完成的答辩。
+最近因为一些事情，好多东西没有准备好，谢谢，之后一定好好完善剩下的部分
+TODO: 机器视觉;更深的研究深度学习网络；认真踏实；努力
+不管怎么说，自己本科生涯结束了，虽说有点遗憾，也是怪我努力的不够多；呜呜呜，加油，谢谢那位老师，
+语音识别我有空的接触一下，谢谢你可以耐心的听我讲代码；
+**take is easy, show me the code;**
